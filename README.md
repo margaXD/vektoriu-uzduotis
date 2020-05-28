@@ -1,1 +1,1 @@
-# vektoriu uzduotis
+# vektoriu uzduotis nepavyko :(
